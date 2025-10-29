@@ -306,8 +306,3 @@ This document describes the database design for an AirBnB-like application, incl
 - Consider adding soft deletes (deleted_at) instead of hard deletes for audit purposes
 
 ---
-
-**Document Version:** 1.0  
-**Last Updated:** 2024  
-**Author:** ALX Airbnb Database Project  
-**Review Status:** Ready for Implementation
